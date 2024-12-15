@@ -1,0 +1,39 @@
+{
+  "navbar": {
+    "about": "About Me",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Frontend developer with experience in creating intuitive web interfaces and integrating modern technologies. I excel in problem-solving and continuously improving user experience. I am committed to enhancing my technical skills and seeking new challenges where I can provide efficient and creative solutions in web development.",
+    "imageAlt": "Profile picture"
+  },
+  "skills": {
+    "title": "Skills"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "description": "I'm currently looking for new opportunities to expand my knowledge and experience, if you have any questions or want to work together, feel free to contact me.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send",
+      "successStatus": "Thank you for your message. I will get back to you as soon as possible",
+      "errorStatus": "There was an error sending the message. Please try again later",
+      "successTitle": "Message sent!",
+      "errorTitle": "Error! :c",
+      "close": "Close"
+    },
+    "footer": {
+      "text": ""
+    }
+  },
+  "projects": {
+    "title": "Projects"
+  },
+  "footer": {
+    "description": "Front-end developer passionate about creating intuitive and functional web experiences."
+  }
+}

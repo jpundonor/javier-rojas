@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  @apply scroll-smooth;
+}
+body {
+  @apply bg-fuchsia-950 text-zinc-300;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a {
+  @apply hover:underline underline-offset-8 font-mono hover:text-yellow-300 transition-all duration-300 ease-in-out;
+}
+nav {
+  @apply flex items-center h-16 p-5 fixed inset-0 bg-slate-600 bg-opacity-60 backdrop-blur-md md:px-20 lg:px-60 z-10 transition-all duration-500 ease-in-out;
+  a {
+    @apply text-yellow-300
+  }
+}
+
+section {
+  @apply p-8 max-w-screen-lg m-auto;
+}
+
+h2 {
+  @apply text-3xl font-bold text-nowrap py-8 flex items-center transition-all duration-300 ease-in-out;
+  @apply after:content-[''] after:ml-5 after:w-32 after:md:h-0.5 after:bg-yellow-300;
+  @apply before:content-[''] before:mr-5 before:md:w-20 before:md:h-0.5 before:bg-yellow-300;
+}
+
+input,
+textarea {
+  @apply p-3 my-1 bg-gray-800 placeholder-opacity-60 text-white placeholder-gray-300 rounded-md transition-all duration-300 ease-in-out resize-none;
+}

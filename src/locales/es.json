@@ -1,0 +1,36 @@
+{
+  "navbar": {
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "description": "Desarrollador frontend con experiencia en la creación de interfaces web intuitivas y en la integración de tecnologías modernas. Destaco por mi enfoque en la resolución de problemas y la mejora continua de la experiencia del usuario. Estoy comprometido con mejorar mis habilidades técnicas, busco nuevos desafíos donde pueda aportar soluciones eficientes y creativas en el desarrollo web",
+    "imageAlt": "Foto de perfil"
+  },
+  "skills": {
+    "title": "Habilidades"
+  },
+  "contact": {
+    "title": "Contáctame",
+    "description": "Actualmente estoy buscando nuevas oportunidades para expandir mis conocimientos y experiencia, si tienes alguna pregunta o deseas trabajar juntos, no dudes en contactarme.",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "message": "Mensaje",
+      "send": "Enviar",
+      "successStatus": "Muchas gracias por tu mensaje. Me pondré en contacto contigo lo antes posible",
+      "errorStatus": "Hubo un error al enviar el mensaje. Inténtalo más tarde",
+      "successTitle": "¡Mensaje enviado!",
+      "errorTitle": "Error! :c",
+      "close": "Cerrar"
+    }
+  },
+  "projects": {
+    "title": "Proyectos"
+  },
+  "footer": {
+    "description": "Desarrollador front-end apasionado por crear experiencias web intuitivas y funcionales"
+  }
+}

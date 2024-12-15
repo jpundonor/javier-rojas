@@ -56,7 +56,7 @@
             rel="noopener noreferrer"
           >
             <img
-              :src="`../../src/assets/${project.image}`"
+              :src="`/assets/${project.image}`"
               :alt="project.imageAlt"
               class="project-card__img"
             />

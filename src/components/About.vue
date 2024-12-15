@@ -8,8 +8,8 @@
       </div>
       <div class="about__img-container">
         <img
-          src="../assets/perfil.webp"
-          alt="{{ $t('about.imageAlt') }}"
+          src="/assets/perfil.webp"
+          :alt="$t('about.imageAlt')"
           class="about__img"
         />
       </div>

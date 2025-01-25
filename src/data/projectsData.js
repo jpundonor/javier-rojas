@@ -14,6 +14,19 @@ export const projectsData = {
       technologies: ["React", "JavaScript", "TailwindCSS"],
     },
     {
+      name: "Clone de Tetris",
+      description:
+        "Una versión interactiva del clásico Tetris, desarrollada con Vue.js. Incluye funcionalidades como la rotación de piezas, detección de líneas completas, puntaje dinámico y control responsivo para ofrecer una experiencia fluida y atractiva.",
+      urls: {
+        github: "https://github.com/jpundonor/tetris-clone",
+        page: "https://tetris-clone-jet.vercel.app/",
+      },
+
+      image: "tetris-clone.webp",
+      imageAlt: "Captura de pantalla de tetris-clone",
+      technologies: ["Vue.js", "JavaScript"],
+    },
+    {
       name: "Quién es ese pokemon",
       description:
         "Este proyecto es una aplicación desarrollada con Vue y Axios, que utiliza la PokéAPI para brindar una experiencia divertida y desafiante. La aplicación destaca por su diseño dinámico, integración con la API y una experiencia de usuario intuitiva.",
@@ -40,6 +53,19 @@ export const projectsData = {
       image: "rubits-works.webp",
       imageAlt: "Rubits Works screenshot",
       technologies: ["React", "JavaScript", "TailwindCSS"],
+    },
+    {
+      name: "Tetris Clone",
+      description:
+        "An interactive version of the classic Tetris, developed with Vue.js. It includes features such as piece rotation, line detection, dynamic scoring, and responsive controls to provide a smooth and engaging experience.",
+      urls: {
+        github: "https://github.com/jpundonor/tetris-clone",
+        page: "https://tetris-clone-jet.vercel.app/",
+      },
+
+      image: "tetris-clone.webp",
+      imageAlt: "Tetris clone screenshot",
+      technologies: ["Vue.js", "JavaScript"],
     },
     {
       name: "Who's that pokemon",

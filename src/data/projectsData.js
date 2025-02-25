@@ -27,17 +27,17 @@ export const projectsData = {
       technologies: ["Vue.js", "JavaScript"],
     },
     {
-      name: "Quién es ese pokemon",
+      name: "Dashboard Financiero",
       description:
-        "Este proyecto es una aplicación desarrollada con Vue y Axios, que utiliza la PokéAPI para brindar una experiencia divertida y desafiante. La aplicación destaca por su diseño dinámico, integración con la API y una experiencia de usuario intuitiva.",
+        "Aplicación web para visualizar datos financieros en tiempo real, desarrollada con Vue.js. Incluye gráficos interactivos, gestión de estado con Pinia y pruebas unitarias.",
       urls: {
-        github: "https://github.com/jpundonor/who-s-that-pokemon",
-        page: "https://who-s-that-pokemon-nine.vercel.app/",
+        github: "https://github.com/jpundonor/prueba-vuejs",
+        page: "https://prueba-vuejs.vercel.app/",
       },
 
-      image: "pokemonApi.webp",
-      imageAlt: "Captura de pantalla de who-s-that-pokemon",
-      technologies: ["Vue.js", "JavaScript", "Axios"],
+      image: "dashboard.webp",
+      imageAlt: "Captura de pantalla de Dashboard Financiero",
+      technologies: ["Vue.js", "Tailwind", "Pinia", "Jest"],
     },
   ],
   en: [
@@ -68,17 +68,17 @@ export const projectsData = {
       technologies: ["Vue.js", "JavaScript"],
     },
     {
-      name: "Who's that pokemon",
+      name: "Financial Dashboard",
       description:
-        "This project is an application developed with Vue and Axios, which uses the PokéAPI to provide a fun and challenging experience. The application stands out for its dynamic design, API integration and intuitive user experience.",
+        "Web application to visualize financial data in real time, developed with Vue.js. Includes interactive graphs, status management with Pinia and unit tests.",
       urls: {
-        github: "https://github.com/jpundonor/who-s-that-pokemon",
-        page: "https://who-s-that-pokemon-nine.vercel.app/",
+        github: "https://github.com/jpundonor/prueba-vuejs",
+        page: "https://prueba-vuejs.vercel.app/",
       },
 
-      image: "pokemonApi.webp",
-      imageAlt: "Who's that pokemon screenshot",
-      technologies: ["Vue.js", "JavaScript", "Axios"],
+      image: "dashboard.webp",
+      imageAlt: "Financial Dashboard screenshot",
+      technologies: ["Vue.js", "Tailwind", "Pinia", "Jest"],
     },
   ],
 };

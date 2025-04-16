@@ -30,7 +30,7 @@
         </div>
       </div>
       <div class="footer__copy">
-        <p>&copy; 2024 Javier Rojas</p>
+        <p>&copy; 2025 Javier Rojas</p>
       </div>
     </div>
   </footer>

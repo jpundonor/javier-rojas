@@ -9,7 +9,7 @@
       <a href="#contact">{{ $t("navbar.contact") }}</a>
     </div>
     <div class="hidden md:flex basis-1/6 justify-end">
-      <a href="/assets/CV_Javier Rojas.pdf" target="_blank">CV</a>
+      <a href="/assets/CV_Javier_Rojas.pdf" target="_blank">CV</a>
     </div>
     <div
       class="cursor-pointer basis-1/2 text-end md:hidden"
@@ -25,7 +25,7 @@
       <a href="#about">{{ $t("navbar.about") }}</a>
       <a href="#projects">{{ $t("navbar.projects") }}</a>
       <a href="#contact">{{ $t("navbar.contact") }}</a>
-      <a href="/assets/CV_Javier Rojas.pdf" target="_blank">CV</a>
+      <a href="/assets/CV_Javier_Rojas.pdf" target="_blank">CV</a>
     </div>
   </nav>
 </template>
